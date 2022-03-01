@@ -10,7 +10,7 @@ import android.widget.ImageView
 import android.widget.TextView
 
 
-data class AdaptadorMovies:BaseAdapter() {
+    class AdaptadorMovies:BaseAdapter {
     lateinit var context: Context
     var peliculas:ArrayList<Pelicula> = ArrayList()
 
@@ -39,6 +39,9 @@ data class AdaptadorMovies:BaseAdapter() {
 
         var pelicula:Pelicula = peliculas[p0]
 
-        imagen
+        imagen.setImageResource(pelicula.img)
+        titulo.text = pelicula.nombre
+
+        return vista
     }
 }
