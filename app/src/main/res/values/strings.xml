@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Peliculas</string>
+    <string name="peli1">The Batman</string>
+    <string name="peli2">Dragon ball super Broly</string>
+    <string name="peli3">Deamon Slayer</string>
+    <string name="peli4">Cloverfield</string>
+    <string name="peli5">Spiderman no way home</string>
+    
+    <string name="peli1_desc">En su segundo año luchando contra el crimen, Batman explora la corrupción existente en la ciudad de Gotham y el vínculo de esta con su propia familia. Además, entrará en conflicto con un asesino en serie conocido como "el Acertijo".</string>
+    <string name="peli2_desc">Goku y Vegeta encuentran a Broly, un guerrero Saiyajin. Pero, ¿cómo sobrevivió a la destrucción de su planeta y dónde estuvo todo ese tiempo? La situación empeora todavía más cuando Freezer vuelve al mundo de los vivos desde el infierno.</string>
+    <string name="peli3_desc">Tanjiro y sus amigos unen fuerzas con un poderoso espadachín para combatir a los demonios que viajan en un tren en movimiento.</string>
+    <string name="peli4_desc">Antes de viajar a Japón, Rob decide celebrar una fiesta de despedida con sus amigos. Sin embargo todos sus planes se desmoronan cuando contemplan horrorizados como una bola de fuego atraviesa el cielo iluminando toda la ciudad.</string>
+    <string name="peli5_desc">Tras descubrirse la identidad secreta de Peter Parker como Spider-Man, la vida del joven se vuelve una locura. Peter decide pedirle ayuda al Doctor Extraño para recuperar su vida. Pero algo sale mal y provoca una fractura en el multiverso.</string>
+</resources>
